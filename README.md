@@ -43,3 +43,4 @@ This is a web-based sentiment analyzer that supports multiple languages by:
 ```bash
 git clone https://github.com/amal1310/multi-language-sentiment-analyzer.git
 cd multi-language-sentiment-analyzer# multi-language-sentimental-analyzer
+
